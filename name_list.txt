@@ -1,0 +1,285 @@
+[<li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<div class="just-launched-section"><div class="launch-title">
+EXPECTED TO LAUNCH ON							</div>
+<div class="launch-date-unit"><span class="launch-date">3<span class="lauch-date-unit">rd</span></span><br/><span class="launch-month">OCT</span></div>
+</div>
+<a href="/hyundai-cars/elantra-facelift/"><img alt="Hyundai Elantra Facelift" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elantra Facelift" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/41138/Hyundai-Elantra-Facelift-Right-Front-Three-Quarter-171434.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Elantra Facelift" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elantra Facelift" data-role="click-tracking" href="/hyundai-cars/elantra-facelift/" title="Hyundai Elantra Facelift"><strong class="text-unbold">Hyundai Elantra Facelift</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 14 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+</div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/elite-i20/"><img alt="Hyundai Elite i20" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elite i20" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/38332/Hyundai-Elite-i20-Right-Front-Three-Quarter-148187.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Elite i20" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elite i20" data-role="click-tracking" href="/hyundai-cars/elite-i20/" title="Hyundai Elite i20"><strong class="text-unbold">Hyundai Elite i20</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 5.53 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/elite-i20/userreviews/" title="User Review of Hyundai Elite i20">246 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Elite i20" data-makemaskingname="hyundai" data-modelmaskingname="elite-i20" data-role="click-inview-imp" title="Hyundai Elite i20 Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Elite i20"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Elite i20" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/creta/"><img alt="Hyundai Creta" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Creta" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/38331/Hyundai-Creta-Right-Front-Three-Quarter-148200.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Creta" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Creta" data-role="click-tracking" href="/hyundai-cars/creta/" title="Hyundai Creta"><strong class="text-unbold">Hyundai Creta</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 10 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/creta/userreviews/" title="User Review of Hyundai Creta">303 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Creta" data-makemaskingname="hyundai" data-modelmaskingname="creta" data-role="click-inview-imp" title="Hyundai Creta Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Creta"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Creta" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/venue/"><img alt="Hyundai Venue" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Venue" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/35455/Hyundai-Venue-Right-Front-Three-Quarter-169804.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Venue" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Venue" data-role="click-tracking" href="/hyundai-cars/venue/" title="Hyundai Venue"><strong class="text-unbold">Hyundai Venue</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 6.5 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/venue/userreviews/" title="User Review of Hyundai Venue">329 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Venue" data-makemaskingname="hyundai" data-modelmaskingname="venue" data-role="click-inview-imp" title="Hyundai Venue Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Venue"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Venue" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/verna/"><img alt="Hyundai Verna" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Verna" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/25465/Hyundai-Verna-Exterior-118764.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Verna" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Verna" data-role="click-tracking" href="/hyundai-cars/verna/" title="Hyundai Verna"><strong class="text-unbold">Hyundai Verna</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 8.18 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/verna/userreviews/" title="User Review of Hyundai Verna">347 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Verna" data-makemaskingname="hyundai" data-modelmaskingname="verna" data-role="click-inview-imp" title="Hyundai Verna Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Verna"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Verna" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/grand-i10-nios/"><img alt="Hyundai Grand i10 Nios" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Grand i10 Nios" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/35465/Hyundai-Grand-i10-NIOS-Exterior-165495.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Grand i10 Nios" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Grand i10 Nios" data-role="click-tracking" href="/hyundai-cars/grand-i10-nios/" title="Hyundai Grand i10 Nios"><strong class="text-unbold">Hyundai Grand i10 Nios</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 5 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/grand-i10-nios/userreviews/" title="User Review of Hyundai Grand i10 Nios">48 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Grand i10 Nios" data-makemaskingname="hyundai" data-modelmaskingname="grand-i10-nios" data-role="click-inview-imp" title="Hyundai Grand i10 Nios Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Grand i10 Nios"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Grand i10 Nios" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/santro/"><img alt="Hyundai Santro" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Santro" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/32940/Hyundai-Santro-Exterior-138747.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Santro" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Santro" data-role="click-tracking" href="/hyundai-cars/santro/" title="Hyundai Santro"><strong class="text-unbold">Hyundai Santro</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 4.15 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/santro/userreviews/" title="User Review of Hyundai Santro">36 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Santro" data-makemaskingname="hyundai" data-modelmaskingname="santro" data-role="click-inview-imp" title="Hyundai Santro Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Santro"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Santro" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/grand-i10/"><img alt="Hyundai Grand i10" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Grand i10" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/26859/Hyundai-Grand-i10-Exterior-167478.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Grand i10" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Grand i10" data-role="click-tracking" href="/hyundai-cars/grand-i10/" title="Hyundai Grand i10"><strong class="text-unbold">Hyundai Grand i10</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 5 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/grand-i10/userreviews/" title="User Review of Hyundai Grand i10">369 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Grand i10" data-makemaskingname="hyundai" data-modelmaskingname="grand-i10" data-role="click-inview-imp" title="Hyundai Grand i10 Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Grand i10"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Grand i10" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/xcent/"><img alt="Hyundai Xcent" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Xcent" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/26914/Hyundai-Xcent-Exterior-133892.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Xcent" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Xcent" data-role="click-tracking" href="/hyundai-cars/xcent/" title="Hyundai Xcent"><strong class="text-unbold">Hyundai Xcent</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 5.8 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/xcent/userreviews/" title="User Review of Hyundai Xcent">130 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Xcent" data-makemaskingname="hyundai" data-modelmaskingname="xcent" data-role="click-inview-imp" title="Hyundai Xcent Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Xcent"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Xcent" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/i20-active/"><img alt="Hyundai i20 Active" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="i20 Active" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/34288/Hyundai-i20-Active-Exterior-126611.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="i20 Active" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="i20 Active" data-role="click-tracking" href="/hyundai-cars/i20-active/" title="Hyundai i20 Active"><strong class="text-unbold">Hyundai i20 Active</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 7.81 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/i20-active/userreviews/" title="User Review of Hyundai i20 Active">65 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="i20 Active" data-makemaskingname="hyundai" data-modelmaskingname="i20-active" data-role="click-inview-imp" title="Hyundai i20 Active Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="i20 Active"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_i20 Active" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/elantra/"><img alt="Hyundai Elantra" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elantra" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/22900/Hyundai-Elantra-Exterior-94094.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Elantra" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Elantra" data-role="click-tracking" href="/hyundai-cars/elantra/" title="Hyundai Elantra"><strong class="text-unbold">Hyundai Elantra</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 13.82 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/elantra/userreviews/" title="User Review of Hyundai Elantra">19 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Elantra" data-makemaskingname="hyundai" data-modelmaskingname="elantra" data-role="click-inview-imp" title="Hyundai Elantra Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Elantra"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Elantra" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/tucson/"><img alt="Hyundai Tucson" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Tucson" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/21594/Hyundai-Tucson-Left-Front-Three-Quarter-83950.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Tucson" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Tucson" data-role="click-tracking" href="/hyundai-cars/tucson/" title="Hyundai Tucson"><strong class="text-unbold">Hyundai Tucson</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 18.78 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/tucson/userreviews/" title="User Review of Hyundai Tucson">17 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Tucson" data-makemaskingname="hyundai" data-modelmaskingname="tucson" data-role="click-inview-imp" title="Hyundai Tucson Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Tucson"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Tucson" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/kona-electric/"><img alt="Hyundai Kona Electric" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Kona Electric" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/29580/Hyundai-Kona-Electric-Right-Front-Three-Quarter-162185.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Kona Electric" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Kona Electric" data-role="click-tracking" href="/hyundai-cars/kona-electric/" title="Hyundai Kona Electric"><strong class="text-unbold">Hyundai Kona Electric</strong></a>
+<div class="font20 margin-top15"><span class="font14 "> </span> ₹ 23.8 Lakhs
+						<span class="font14 ">onwards</span></div><div class="margin-bottom15 font14 price-label price-label-text--grey ">
+Avg. Ex-Showroom price														<div>
+</div></div>
+<div>
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/> <a class="href-grey" href="/hyundai-cars/kona-electric/userreviews/" title="User Review of Hyundai Kona Electric">20 User Reviews</a>
+</div>
+<div class="margin-top10">
+<a class="btn btn-orange btn-xs btnShowOnRoadPrice" data-action="showpriceinmycity" data-cat="Desktop_MakePage_ModelCard" data-label="Kona Electric" data-makemaskingname="hyundai" data-modelmaskingname="kona-electric" data-role="click-inview-imp" title="Hyundai Kona Electric Show price in my city">Show price in my city</a>
+<div class="inline-block electric-cars hide" modelname="Kona Electric"><a class="advantage-link" data-action="ElectricSectionLinks" data-cat="CWSpecials" data-event="CWInteractive" data-label="Click_MakePage_Kona Electric" data-role="click-tracking" href="/electriccars/"><span class="btn btn-xs btn-white margin-left10 hide">
+										All About Electric
+									</span></a></div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/tucson-facelift/"><img alt="Hyundai Tucson Facelift" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Tucson Facelift" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/39082/Hyundai-Tucson-Facelift-Exterior-169926.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Tucson Facelift" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Tucson Facelift" data-role="click-tracking" href="/hyundai-cars/tucson-facelift/" title="Hyundai Tucson Facelift"><strong class="text-unbold">Hyundai Tucson Facelift</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 18 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+Expected to launch in <span class="text-bold">Nov 2019</span> </div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/new-xcent/"><img alt="Hyundai New Xcent" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Xcent" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/41652/Hyundai-Compact-Sedan-Exterior-166120.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="New Xcent" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Xcent" data-role="click-tracking" href="/hyundai-cars/new-xcent/" title="Hyundai New Xcent"><strong class="text-unbold">Hyundai New Xcent</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 6 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+Expected to launch in <span class="text-bold">Feb 2020</span> </div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/new-creta/"><img alt="Hyundai New Creta" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Creta" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/41564/Hyundai-New-Creta-Exterior-170091.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="New Creta" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Creta" data-role="click-tracking" href="/hyundai-cars/new-creta/" title="Hyundai New Creta"><strong class="text-unbold">Hyundai New Creta</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 10 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+Expected to launch in <span class="text-bold">Mar 2020</span> </div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/new-elite-i20/"><img alt="Hyundai New Elite i20" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Elite i20" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/40530/Hyundai-New-Elite-i20-Exterior-159947.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="New Elite i20" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="New Elite i20" data-role="click-tracking" href="/hyundai-cars/new-elite-i20/" title="Hyundai New Elite i20"><strong class="text-unbold">Hyundai New Elite i20</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 6.5 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+Expected to launch in <span class="text-bold">Apr 2020</span> </div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <li class="list-seperator">
+<div class="upcoming-label"><span class="modelType">Upcoming</span></div>
+<div class="grid-5 alpha">
+<a href="/hyundai-cars/verna-facelift/"><img alt="Hyundai Verna Facelift" border="0" class="lazy" data-action="Image-click" data-cat="MakePage" data-event="CWInteractive" data-label="Verna Facelift" data-original="https://imgd.aeplcdn.com/227x128/cw/ec/41197/Hyundai-Verna-Facelift-Exterior-163456.jpg?wm=0" data-role="click-tracking" height="128" src="https://imgd.aeplcdn.com/227X128/cw/cars/no-cars.jpg" title="Verna Facelift" width="227"/></a></div><div class="grid-7 omega"><a class="font18" data-action="Title-click" data-cat="MakePage" data-event="CWInteractive" data-label="Verna Facelift" data-role="click-tracking" href="/hyundai-cars/verna-facelift/" title="Hyundai Verna Facelift"><strong class="text-unbold">Hyundai Verna Facelift</strong></a>
+<div class="font20 margin-top15"><span class="font14 ">Expected Price: </span> ₹ 8 Lakhs
+						<span class="font14 "></span></div><div class="margin-bottom15 font14 price-label">
+<div>
+Expected to launch in <span class="text-bold">Aug 2020</span> </div></div>
+<div>
+</div>
+</div><div class="clear"></div></li>, <article class="list-seperator"><h3><a class="font20 margin-top10" href="/hyundai-cars/grand-i10-nios/expert-reviews/hyundai-grand-i10-nios-petrol-amt-first-drive-review/" title="Review of Hyundai-Hyundai Grand i10 Nios Petrol AMT First Drive Review">Hyundai Grand i10 Nios Petrol AMT First Drive Review</a></h3><div class="grid-4 alpha"><a href="/hyundai-cars/grand-i10-nios/expert-reviews/hyundai-grand-i10-nios-petrol-amt-first-drive-review/"><img alt="Hyundai Grand i10 Nios Petrol AMT First Drive Review" class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/41959/Hyundai-Grand-i10-Nios-Exterior-168573.jpg?wm=1" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="Hyundai Grand i10 Nios Petrol AMT First Drive Review" width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">The Hyundai i10 has been around for over 12 years, and over the course of time, it has received various updates; the 2nd gen Grand i10 being a significant one.</p></div><footer class="leftfloat margin-top10 margin-left10"><p>29 Aug 2019 by Ajinkya Lad | <span class="text-link" onclick="window.location = '/hyundai-cars/grand-i10-nios/expert-reviews/hyundai-grand-i10-nios-petrol-amt-first-drive-review/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3><a class="font20 margin-top10" href="/hyundai-cars/santro/expert-reviews/hyundai-santro-amt-final-report/" title="Review of Hyundai-Hyundai Santro AMT : Final Report">Hyundai Santro AMT : Final Report</a></h3><div class="grid-4 alpha"><a href="/hyundai-cars/santro/expert-reviews/hyundai-santro-amt-final-report/"><img alt="Hyundai Santro AMT : Final Report" class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/41640/Hyundai-Santro-Exterior-166096.jpg?wm=1" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="Hyundai Santro AMT : Final Report" width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">Its time for the Hyundai Santro to head back. Here's the final report.</p></div><footer class="leftfloat margin-top10 margin-left10"><p>12 Aug 2019 by Abhishek Nigam | <span class="text-link" onclick="window.location = '/hyundai-cars/santro/expert-reviews/hyundai-santro-amt-final-report/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3><a class="font20 margin-top10" href="/hyundai-cars/kona-electric/expert-reviews/hyundai-kona-electric-review-pros-and-cons/" title="Review of Hyundai-Hyundai Kona Electric Review: Pros and Cons">Hyundai Kona Electric Review: Pros and Cons</a></h3><div class="grid-4 alpha"><a href="/hyundai-cars/kona-electric/expert-reviews/hyundai-kona-electric-review-pros-and-cons/"><img alt="Hyundai Kona Electric Review: Pros and Cons" class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/41184/Hyundai-Kona-Electric-Exterior-163429.jpg?wm=1" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="Hyundai Kona Electric Review: Pros and Cons" width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">So the Hyundai Kona Electric has finally been launched and we’re here at the Buddh International circuit to get a taste of it.</p></div><footer class="leftfloat margin-top10 margin-left10"><p>18 Jul 2019 by Abhishek Nigam | <span class="text-link" onclick="window.location = '/hyundai-cars/kona-electric/expert-reviews/hyundai-kona-electric-review-pros-and-cons/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3><a class="font20 margin-top10" data-action="model_page_news" data-cat="desktop_news_linkages" data-event="CWInteractive" data-label="model_page_news" data-role="click" href="/news/2019-hyundai-elantra-to-get-blue-link-features/" title="2019 Hyundai Elantra to get Blue Link technology features">2019 Hyundai Elantra to get Blue Link technology features</a></h3><div class="grid-4 alpha"><a href="/news/2019-hyundai-elantra-to-get-blue-link-features/" title="2019 Hyundai Elantra to get Blue Link technology features"><img alt="2019 Hyundai Elantra to get Blue Link technology features" class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/42517/Hyundai-Elantra-Facelift-Exterior-171757.jpg?wm=1" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="2019 Hyundai Elantra to get Blue Link technology features" width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">
+									The 2019 Hyundai Elantra will get 34 Hyundai Blue Link features of which 10 features are exclusive to the Indian market.
+								</p></div><footer class="leftfloat margin-top10 margin-left10"><p><time datetime="2019-09-27" pubdate=""> 27 Sep 2019 </time>
+									by Nikhil Puthran | <span class="text-link" onclick="window.location = '/news/2019-hyundai-elantra-to-get-blue-link-features/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3><a class="font20 margin-top10" data-action="model_page_news" data-cat="desktop_news_linkages" data-event="CWInteractive" data-label="model_page_news" data-role="click" href="/news/ford-ecosport-vs-tata-nexon-vs-maruti-suzuki-vitara-brezza-vs-mahindra-xuv300-vs-hyundai-venue-diesel-manual-fuel-efficiency-compared/" title="Ford EcoSport Vs Tata Nexon Vs Maruti Brezza Vs Mahindra XUV300 Vs Hyundai Venue Diesel MT F.E ">Ford EcoSport Vs Tata Nexon Vs Maruti Brezza Vs Mahindra XUV300 Vs Hyundai Venue Diesel MT F.E </a></h3><div class="grid-4 alpha"><a href="/news/ford-ecosport-vs-tata-nexon-vs-maruti-suzuki-vitara-brezza-vs-mahindra-xuv300-vs-hyundai-venue-diesel-manual-fuel-efficiency-compared/" title="Ford EcoSport Vs Tata Nexon Vs Maruti Brezza Vs Mahindra XUV300 Vs Hyundai Venue Diesel MT F.E "><img alt="Ford EcoSport Vs Tata Nexon Vs Maruti Brezza Vs Mahindra XUV300 Vs Hyundai Venue Diesel MT F.E " class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/42496/Mahindra-XUV300-Exterior-171736.jpg?wm=0" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="Ford EcoSport Vs Tata Nexon Vs Maruti Brezza Vs Mahindra XUV300 Vs Hyundai Venue Diesel MT F.E " width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">
+									We compare the fuel efficiency figures of the latest compact SUV's in India.
+								</p></div><footer class="leftfloat margin-top10 margin-left10"><p><time datetime="2019-09-27" pubdate=""> 27 Sep 2019 </time>
+									by Aditya Nadkarni | <span class="text-link" onclick="window.location = '/news/ford-ecosport-vs-tata-nexon-vs-maruti-suzuki-vitara-brezza-vs-mahindra-xuv300-vs-hyundai-venue-diesel-manual-fuel-efficiency-compared/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3><a class="font20 margin-top10" data-action="model_page_news" data-cat="desktop_news_linkages" data-event="CWInteractive" data-label="model_page_news" data-role="click" href="/news/2019-hyundai-elantra-first-look/" title="2019 Hyundai Elantra first look">2019 Hyundai Elantra first look</a></h3><div class="grid-4 alpha"><a href="/news/2019-hyundai-elantra-first-look/" title="2019 Hyundai Elantra first look"><img alt="2019 Hyundai Elantra first look" class="lazy" data-original="https://imgd.aeplcdn.com/199x112/cw/ec/42477/Hyundai-Elantra-Facelift-Exterior-171529.jpg?wm=0" height="112" src="https://imgd.aeplcdn.com/0x0/statics/grey.gif" title="2019 Hyundai Elantra first look" width="199"/></a></div><div class="grid-8 omega"><p class="margin-top10">
+									Hyundai claims that the new Elantra projects a sportier, futuristic and a progressive image.
+								</p></div><footer class="leftfloat margin-top10 margin-left10"><p><time datetime="2019-09-25" pubdate=""> 25 Sep 2019 </time>
+									by Nikhil Puthran | <span class="text-link" onclick="window.location = '/news/2019-hyundai-elantra-first-look/';">Read more</span></p></footer><div class="clear"></div></article>, <article class="list-seperator"><h3 class="font16"><a href="/hyundai-cars/xcent/userreviews/105049/" title="User Review of Xcent S-Feature enrich value for money car">Feature enrich value for money car</a></h3><div class="margin-top10">
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/><span>for <b>Hyundai Xcent</b> on Sumit verma</span></div><p class="margin-top10">
+						Xcent has best in class features and new Xcent has better looks and rising quality is also good however excellent is an underrated car in private segment due to high usage in...
+					</p></article>, <article class="list-seperator"><h3 class="font16"><a href="/hyundai-cars/santro-xing-2003-2008/userreviews/105038/" title="User Review of Santro Xing [2003-2008] XG-My first car">My first car</a></h3><div class="margin-top10">
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/><span>for <b>Hyundai Santro Xing [2003-2008]</b> on SRINIVASARAO KOTAPATI</span></div><p class="margin-top10">
+						Santro XG is a very good car,I bought this car as a new in 2005,Still I am using it,I am going to complete 15 Years with this car,back seats are somewhat conjusted.Remaining all areas...
+					</p></article>, <article class="list-seperator"><h3 class="font16"><a href="/hyundai-cars/grand-i10-nios/userreviews/105008/" title="User Review of Grand i10 Nios Era 1.2 Kappa VTVT-cool and grate car i love it">cool and grate car i love it</a></h3><div class="margin-top10">
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><span>for <b>Hyundai Grand i10 Nios</b> on Krupesh Suthar</span></div><p class="margin-top10">
+						these car riding experience is a very smooth drive and instent parfomance after racing and very exiting great driveing qulity i love car driving qulity 
+
+ the new grand i 10 nios mense...
+					</p></article>, <article class="list-seperator"><h3 class="font16"><a href="/hyundai-cars/verna/userreviews/104996/" title="User Review of Verna SX 1.6 VTVT-Its tail light and drls">Its tail light and drls</a></h3><div class="margin-top10">
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><span>for <b>Hyundai Verna</b> on Rajkishor Dubey</span></div><p class="margin-top10">
+						I love the car for.family
+I love the Hyundai company also to give and thks to that designer who had made this car
+I will allow them to give more mileage in this car only so I will not....
+					</p></article>, <article class="list-seperator"><h3 class="font16"><a href="/hyundai-cars/grand-i10/userreviews/104994/" title="User Review of Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018]-WORDS CAN NOT EXPLAIN ITS ABOUT QUALITY">WORDS CAN NOT EXPLAIN ITS ABOUT QUALITY</a></h3><div class="margin-top10">
+<img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img class="text-bottom" src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><span>for <b>Hyundai Grand i10</b> on ABHISHEK JAIN</span></div><p class="margin-top10">
+						WORDS CAN NOT EXPLAIN ITS QUALITY, FIRST YOU TAKE OR BOOK TEST DRIVE JUST TAKE TEST DRIVE AND YOU FILL AMAZE. THIS IS MY THIRD ONE CAR BUT THIS ONE IS JUST EXPERIENCE IS WONDERFULL.
+					</p></article>]
