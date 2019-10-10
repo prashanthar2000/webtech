@@ -1,1 +1,1 @@
-{}
+{'Price': 'Rs. 5.67 Lakhs onwards', 'Mileage': ' 19.56 to 27.39 kmpl', 'Engine': ' 998 to 1248 cc', 'Transmission': ' Manual and Automatic (CVT)', 'FuelType': ' Petrol and Diesel'}
